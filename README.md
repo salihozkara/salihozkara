@@ -6,7 +6,7 @@
 
 <p align='center'>
   <a href="https://gist.github.com/salihozkara"><img src="https://img.shields.io/badge/gist-100000?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/73_61_6c_69_68"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/salihözkara/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="mailto:salihozkara@outlook.com.tr"><img src="https://img.shields.io/badge/Outlook-0078D4.svg?&style=for-the-badge&logo=microsoft%20outlook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://salihözkara.online/"><img src="https://img.shields.io/badge/salihözkara.online-F4D03E.svg?&style=for-the-badge&logo=Cliqz&logoColor=black" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -17,11 +17,3 @@
 <a href="https://github.com/salihozkara"><img align="center" src="https://github-readme-stats.vercel.app/api?username=salihozkara&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=F4D03E&icon_color=F4D03E&hide_border=true" /></a><a href="https://github.com/salihozkara"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salihozkara&bg_color=0d1117&text_color=bdc3c7&title_color=F4D03E&hide_border=true&layout=compact&langs_count=10" /></a>
 
 ## <a href="https://gist.github.com/salihozkara"><img src="https://img.shields.io/badge/Latest-Gists-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-<!-- GISTS:START -->
-- [Autohotkey script to Auto-close the Voicemeeter windows that open when startup.](https://gist.github.com/salihozkara/0f5f993256bc35b701543895b4fa4571)
-- [Perfect Numbers - Javascript](https://gist.github.com/salihozkara/51a8a6cb0554978beadacd71dd90eafb)
-- [Friendly Numbers - Javascript](https://gist.github.com/salihozkara/d51d4063e0c0f97cb9486b5e0d5fbee8)
-- [Prime Numbers - Javascript](https://gist.github.com/salihozkara/18628fadb6dcf08088e830df856f7130)
-- [Leetcode Solution - 205. Isomorphic Strings](https://gist.github.com/salihozkara/ba7ed8a77d067ce98306577cd07ee57a)
-<!-- GISTS:END -->
