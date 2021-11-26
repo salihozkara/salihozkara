@@ -1,6 +1,6 @@
 <p align="center">
 <a align="center"  href="https://salihözkara.online/">
-  <img align="center"  src="https://github-profile-trophy.vercel.app/?username=salihozkara&no-frame=true&column=7&include_all_commits=true&count_private=true&show_icons=true&theme=dracula&margin-w=15&column=5&row=1"> 
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=salihozkara&column=5&row=1&theme=dracula&margin-w=5"> 
 </a>
 </p>
 <h1 align="center"><b><i>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Salih Özkara</i></b></h1>
