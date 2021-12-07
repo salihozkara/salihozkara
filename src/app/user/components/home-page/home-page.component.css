@@ -1,0 +1,20 @@
+.b1{
+    font-family: 'Kanit', sans-serif;font-size: 100px;line-height: 90%
+}
+.b2{
+    font-family: 'Kanit', sans-serif;font-size: 130px;line-height: 50%;
+}
+.b3{
+    font-family: 'Kanit', sans-serif;font-size: 150px;line-height: 90%
+}
+@media  (max-width: 768px) {
+    .b1{
+        font-size: 40px;
+    }
+    .b2{
+        font-size: 55px;
+    }
+    .b3{
+        font-size: 65px;
+    }
+}

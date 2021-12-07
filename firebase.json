@@ -1,0 +1,17 @@
+{
+  "hosting": {
+    "site": "salihozkara",
+    "public": "dist/SalihOzkara",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
